@@ -1,0 +1,2 @@
+esLista([_|_]).
+esLista([]).
